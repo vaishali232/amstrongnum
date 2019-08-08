@@ -2,7 +2,7 @@
 int main()
 {
 unsigned long long int n,tempnum,ams=0,rem;
-scanf("%llu",%n);
+scanf("%llu",&n);
 tempnum=n;
 while(n>0)
 {
